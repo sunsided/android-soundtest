@@ -1,0 +1,7 @@
+gen
+bin
+out
+*.iws
+workspace.xml
+tasks.xml
+target
